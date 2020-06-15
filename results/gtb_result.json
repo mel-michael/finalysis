@@ -1,0 +1,1192 @@
+[
+  {
+    "TransDate": "01-May-2020",
+    "ValueDate": "30-Apr-2020",
+    "Reference": "'0NIPT",
+    "Debits": 0,
+    "Credits": 100000,
+    "Balance": 381454.61,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "Transfer from UDONWA N UTIBE -"
+  },
+  {
+    "TransDate": "01-May-2020",
+    "ValueDate": "01-May-2020",
+    "Reference": "'0GWTR",
+    "Debits": 5000,
+    "Credits": 0,
+    "Balance": 376454.61,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "TRANSFER BETWEEN CUSTOMERS Via GTWorld Token"
+  },
+  {
+    "TransDate": "01-May-2020",
+    "ValueDate": "01-May-2020",
+    "Reference": "'0NIPG",
+    "Debits": 5000,
+    "Credits": 0,
+    "Balance": 371454.61,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "Token from Mel TO ZBN/COLLINS OMEIZA AJE"
+  },
+  {
+    "TransDate": "01-May-2020",
+    "ValueDate": "01-May-2020",
+    "Reference": "'0NIPG",
+    "Debits": 10,
+    "Credits": 0,
+    "Balance": 371444.61,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "COMMISSION 000013200501115219000017541132 NIP"
+  },
+  {
+    "TransDate": "01-May-2020",
+    "ValueDate": "01-May-2020",
+    "Reference": "'0NIPG",
+    "Debits": 0.75,
+    "Credits": 0,
+    "Balance": 371443.86,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "000013200501115219000017541132 via GTWORLD"
+  },
+  {
+    "TransDate": "01-May-2020",
+    "ValueDate": "01-May-2020",
+    "Reference": "'0",
+    "Debits": 50,
+    "Credits": 0,
+    "Balance": 371393.86,
+    "OriginatingBranch": "CHEVRON DRIVE",
+    "Remarks": "STAMP DUTY CHARGE 01052020 STAMP DUTY"
+  },
+  {
+    "TransDate": "02-May-2020",
+    "ValueDate": "02-May-2020",
+    "Reference": "'0GWTR",
+    "Debits": 20000,
+    "Credits": 0,
+    "Balance": 351393.86,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "from Mel   REF:240225864000000200002005020520"
+  },
+  {
+    "TransDate": "02-May-2020",
+    "ValueDate": "02-May-2020",
+    "Reference": "'99999603859999",
+    "Debits": 11025.3,
+    "Credits": 0,
+    "Balance": 340368.56,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "POS/WEB PURCHASE TRANSACTION  -960385-"
+  },
+  {
+    "TransDate": "02-May-2020",
+    "ValueDate": "02-May-2020",
+    "Reference": "'99999610029999",
+    "Debits": 46538.7,
+    "Credits": 0,
+    "Balance": 293829.86,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "-540846-PAYPAL *MANEKRUSHLL    4029357733     LU"
+  },
+  {
+    "TransDate": "02-May-2020",
+    "ValueDate": "02-May-2020",
+    "Reference": "'0GWTR",
+    "Debits": 5000,
+    "Credits": 0,
+    "Balance": 288829.86,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "TRANSFER BETWEEN CUSTOMERS Via GTWorld Token"
+  },
+  {
+    "TransDate": "02-May-2020",
+    "ValueDate": "02-May-2020",
+    "Reference": "'0GWTR",
+    "Debits": 10000,
+    "Credits": 0,
+    "Balance": 278829.86,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "from Mel   REF:240225864000000100002005021050"
+  },
+  {
+    "TransDate": "03-May-2020",
+    "ValueDate": "03-May-2020",
+    "Reference": "'99990026199999",
+    "Debits": 7000,
+    "Credits": 0,
+    "Balance": 271829.86,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "POS/WEB PURCHASE TRANSACTION  -002619-"
+  },
+  {
+    "TransDate": "03-May-2020",
+    "ValueDate": "03-May-2020",
+    "Reference": "'99999514289999",
+    "Debits": 13710,
+    "Credits": 0,
+    "Balance": 258119.86,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "POS/WEB PURCHASE TRANSACTION  -951428-"
+  },
+  {
+    "TransDate": "04-May-2020",
+    "ValueDate": "04-May-2020",
+    "Reference": "'0USAT",
+    "Debits": 2000,
+    "Credits": 0,
+    "Balance": 256119.86,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "Airtime Purchase"
+  },
+  {
+    "TransDate": "04-May-2020",
+    "ValueDate": "04-May-2020",
+    "Reference": "'99992436239999",
+    "Debits": 46923.96,
+    "Credits": 0,
+    "Balance": 209195.9,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "POS/WEB PURCHASE TRANSACTION  -243623-"
+  },
+  {
+    "TransDate": "05-May-2020",
+    "ValueDate": "05-May-2020",
+    "Reference": "'0GWTR",
+    "Debits": 5000,
+    "Credits": 0,
+    "Balance": 204195.9,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "TRANSFER BETWEEN CUSTOMERS Via GTWorld Token"
+  },
+  {
+    "TransDate": "05-May-2020",
+    "ValueDate": "05-May-2020",
+    "Reference": "'99996567589999",
+    "Debits": 8500,
+    "Credits": 0,
+    "Balance": 195695.9,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "-406844-3PG00021-GTPAY-QSERV RS NETWORK L"
+  },
+  {
+    "TransDate": "05-May-2020",
+    "ValueDate": "05-May-2020",
+    "Reference": "'99996569559999",
+    "Debits": 4500,
+    "Credits": 0,
+    "Balance": 191195.9,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "POS/WEB PURCHASE TRANSACTION  -656955-"
+  },
+  {
+    "TransDate": "05-May-2020",
+    "ValueDate": "05-May-2020",
+    "Reference": "'0NIPT",
+    "Debits": 0,
+    "Credits": 16000,
+    "Balance": 207195.9,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "969144113049|FBN|ODULANA JUBRIL ADEBOWALE"
+  },
+  {
+    "TransDate": "05-May-2020",
+    "ValueDate": "05-May-2020",
+    "Reference": "'0",
+    "Debits": 50,
+    "Credits": 0,
+    "Balance": 207145.9,
+    "OriginatingBranch": "CHEVRON DRIVE",
+    "Remarks": "STAMP DUTY CHARGE 05052020 STAMP DUTY"
+  },
+  {
+    "TransDate": "07-May-2020",
+    "ValueDate": "07-May-2020",
+    "Reference": "'0USAT",
+    "Debits": 2000,
+    "Credits": 0,
+    "Balance": 205145.9,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "Airtime Purchase"
+  },
+  {
+    "TransDate": "08-May-2020",
+    "ValueDate": "08-May-2020",
+    "Reference": "'0USAT",
+    "Debits": 2000,
+    "Credits": 0,
+    "Balance": 203145.9,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "Airtime Purchase"
+  },
+  {
+    "TransDate": "09-May-2020",
+    "ValueDate": "09-May-2020",
+    "Reference": "'99999568489999",
+    "Debits": 2646.17,
+    "Credits": 0,
+    "Balance": 200499.73,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "-353905-3PG00021-GTP-AYQSERVERS N TWORK L"
+  },
+  {
+    "TransDate": "10-May-2020",
+    "ValueDate": "10-May-2020",
+    "Reference": "'0MBTR",
+    "Debits": 0,
+    "Credits": 20000,
+    "Balance": 220499.73,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "TRANSFER BETWEEN CUSTOMERS MBANKING -"
+  },
+  {
+    "TransDate": "10-May-2020",
+    "ValueDate": "10-May-2020",
+    "Reference": "'0",
+    "Debits": 50,
+    "Credits": 0,
+    "Balance": 220449.73,
+    "OriginatingBranch": "CHEVRON DRIVE",
+    "Remarks": "STAMP DUTY CHARGE 10052020 STAMP DUTY"
+  },
+  {
+    "TransDate": "11-May-2020",
+    "ValueDate": "11-May-2020",
+    "Reference": "'0MBTR",
+    "Debits": 10000,
+    "Credits": 0,
+    "Balance": 210449.73,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "TRANSFER BETWEEN CUSTOMERS MBANKING -"
+  },
+  {
+    "TransDate": "11-May-2020",
+    "ValueDate": "11-May-2020",
+    "Reference": "'0GWTR",
+    "Debits": 58000,
+    "Credits": 0,
+    "Balance": 152449.73,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "REF:240225864000000580002005110242  from"
+  },
+  {
+    "TransDate": "12-May-2020",
+    "ValueDate": "11-May-2020",
+    "Reference": "'99992375569999",
+    "Debits": 761,
+    "Credits": 0,
+    "Balance": 151688.73,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "POS/WEB PURCHASE TRANSACTION  -237556-"
+  },
+  {
+    "TransDate": "12-May-2020",
+    "ValueDate": "12-May-2020",
+    "Reference": "'99992600649999",
+    "Debits": 433,
+    "Credits": 0,
+    "Balance": 151255.73,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "POS/WEB PURCHASE TRANSACTION  -260064-"
+  },
+  {
+    "TransDate": "12-May-2020",
+    "ValueDate": "12-May-2020",
+    "Reference": "'99992601609999",
+    "Debits": 90,
+    "Credits": 0,
+    "Balance": 151165.73,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "POS/WEB PURCHASE TRANSACTION  -260160-"
+  },
+  {
+    "TransDate": "12-May-2020",
+    "ValueDate": "12-May-2020",
+    "Reference": "'99992779779999",
+    "Debits": 872,
+    "Credits": 0,
+    "Balance": 150293.73,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "POS/WEB PURCHASE TRANSACTION  -277977-"
+  },
+  {
+    "TransDate": "12-May-2020",
+    "ValueDate": "12-May-2020",
+    "Reference": "'99996340259999",
+    "Debits": 3650,
+    "Credits": 0,
+    "Balance": 146643.73,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "POS/WEB PURCHASE TRANSACTION  -634025-"
+  },
+  {
+    "TransDate": "13-May-2020",
+    "ValueDate": "13-May-2020",
+    "Reference": "'99993498319999",
+    "Debits": 70,
+    "Credits": 0,
+    "Balance": 146573.73,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "POS/WEB PURCHASE TRANSACTION  -349831-"
+  },
+  {
+    "TransDate": "13-May-2020",
+    "ValueDate": "13-May-2020",
+    "Reference": "'0USAT",
+    "Debits": 2000,
+    "Credits": 0,
+    "Balance": 144573.73,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "Airtime Purchase"
+  },
+  {
+    "TransDate": "13-May-2020",
+    "ValueDate": "13-May-2020",
+    "Reference": "'99993488759999",
+    "Debits": 8500,
+    "Credits": 0,
+    "Balance": 136073.73,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "-051856-3PG00021-GTPAYQSERVERS NETWORK-/L"
+  },
+  {
+    "TransDate": "13-May-2020",
+    "ValueDate": "13-May-2020",
+    "Reference": "'99993490459999",
+    "Debits": 1100,
+    "Credits": 0,
+    "Balance": 134973.73,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "POS/WEB PURCHASE TRANSACTION  -349045-"
+  },
+  {
+    "TransDate": "14-May-2020",
+    "ValueDate": "14-May-2020",
+    "Reference": "'0NIPT",
+    "Debits": 0,
+    "Credits": 57500,
+    "Balance": 192473.73,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "2|ZBN|UTIBE NDIFREKE UDONWA"
+  },
+  {
+    "TransDate": "14-May-2020",
+    "ValueDate": "14-May-2020",
+    "Reference": "'0",
+    "Debits": 50,
+    "Credits": 0,
+    "Balance": 192423.73,
+    "OriginatingBranch": "CHEVRON DRIVE",
+    "Remarks": "STAMP DUTY CHARGE 14052020 STAMP DUTY"
+  },
+  {
+    "TransDate": "15-May-2020",
+    "ValueDate": "15-May-2020",
+    "Reference": "'99996548699999",
+    "Debits": 9658,
+    "Credits": 0,
+    "Balance": 182765.73,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "POS/WEB PURCHASE TRANSACTION  -654869-"
+  },
+  {
+    "TransDate": "15-May-2020",
+    "ValueDate": "15-May-2020",
+    "Reference": "'0NIPT",
+    "Debits": 0,
+    "Credits": 9658,
+    "Balance": 192423.73,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "TRANSFER BETWEEN CUSTOMERS"
+  },
+  {
+    "TransDate": "15-May-2020",
+    "ValueDate": "15-May-2020",
+    "Reference": "'99997029029999",
+    "Debits": 6240,
+    "Credits": 0,
+    "Balance": 186183.73,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "POS/WEB PURCHASE TRANSACTION  -702902-"
+  },
+  {
+    "TransDate": "15-May-2020",
+    "ValueDate": "15-May-2020",
+    "Reference": "'0USAT",
+    "Debits": 140,
+    "Credits": 0,
+    "Balance": 186043.73,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "Airtime Purchase"
+  },
+  {
+    "TransDate": "15-May-2020",
+    "ValueDate": "15-May-2020",
+    "Reference": "'0USAT",
+    "Debits": 2000,
+    "Credits": 0,
+    "Balance": 184043.73,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "Airtime Purchase"
+  },
+  {
+    "TransDate": "18-May-2020",
+    "ValueDate": "18-May-2020",
+    "Reference": "'99998627139999",
+    "Debits": 10650,
+    "Credits": 0,
+    "Balance": 173393.73,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "POS/WEB PURCHASE TRANSACTION  -862713-"
+  },
+  {
+    "TransDate": "18-May-2020",
+    "ValueDate": "18-May-2020",
+    "Reference": "'0NIPG",
+    "Debits": 4930,
+    "Credits": 0,
+    "Balance": 168463.73,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "April Bill TO KEY/BAKARE GBOLAHAN ABIDEEN"
+  },
+  {
+    "TransDate": "18-May-2020",
+    "ValueDate": "18-May-2020",
+    "Reference": "'0NIPG",
+    "Debits": 10,
+    "Credits": 0,
+    "Balance": 168453.73,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "COMMISSION 000013200518053918000031080291 NIP"
+  },
+  {
+    "TransDate": "18-May-2020",
+    "ValueDate": "18-May-2020",
+    "Reference": "'0NIPG",
+    "Debits": 0.75,
+    "Credits": 0,
+    "Balance": 168452.98,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "000013200518053918000031080291 via GTWORLD Mel"
+  },
+  {
+    "TransDate": "18-May-2020",
+    "ValueDate": "18-May-2020",
+    "Reference": "'0USAT",
+    "Debits": 2000,
+    "Credits": 0,
+    "Balance": 166452.98,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "Airtime Purchase"
+  },
+  {
+    "TransDate": "21-May-2020",
+    "ValueDate": "21-May-2020",
+    "Reference": "'99993964929999",
+    "Debits": 1003,
+    "Credits": 0,
+    "Balance": 165449.98,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "POS/WEB PURCHASE TRANSACTION  -396492-"
+  },
+  {
+    "TransDate": "21-May-2020",
+    "ValueDate": "21-May-2020",
+    "Reference": "'99993966989999",
+    "Debits": 1332,
+    "Credits": 0,
+    "Balance": 164117.98,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "POS/WEB PURCHASE TRANSACTION  -396698-"
+  },
+  {
+    "TransDate": "21-May-2020",
+    "ValueDate": "21-May-2020",
+    "Reference": "'0USAT",
+    "Debits": 2000,
+    "Credits": 0,
+    "Balance": 162117.98,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "Airtime Purchase"
+  },
+  {
+    "TransDate": "22-May-2020",
+    "ValueDate": "22-May-2020",
+    "Reference": "'0NIPG",
+    "Debits": 10000,
+    "Credits": 0,
+    "Balance": 152117.98,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "NIBSS Instant Payment Outward"
+  },
+  {
+    "TransDate": "22-May-2020",
+    "ValueDate": "22-May-2020",
+    "Reference": "'0NIPG",
+    "Debits": 25,
+    "Credits": 0,
+    "Balance": 152092.98,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "000013200522075721000034690487 via GTWORLD It is a"
+  },
+  {
+    "TransDate": "22-May-2020",
+    "ValueDate": "22-May-2020",
+    "Reference": "'0NIPG",
+    "Debits": 1.87,
+    "Credits": 0,
+    "Balance": 152091.11,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "VALUE ADDED TAX 000013200522075721000034690487"
+  },
+  {
+    "TransDate": "22-May-2020",
+    "ValueDate": "22-May-2020",
+    "Reference": "'0GWTR",
+    "Debits": 10000,
+    "Credits": 0,
+    "Balance": 142091.11,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "for sch fee   REF:240225864000000100002005220758"
+  },
+  {
+    "TransDate": "22-May-2020",
+    "ValueDate": "22-May-2020",
+    "Reference": "'0GWTR",
+    "Debits": 100000,
+    "Credits": 0,
+    "Balance": 42091.11,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "TRANSFER BETWEEN CUSTOMERS Via GTWorld My"
+  },
+  {
+    "TransDate": "22-May-2020",
+    "ValueDate": "22-May-2020",
+    "Reference": "'99991580889999",
+    "Debits": 2250,
+    "Credits": 0,
+    "Balance": 39841.11,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "POS/WEB PURCHASE TRANSACTION  -158088-"
+  },
+  {
+    "TransDate": "22-May-2020",
+    "ValueDate": "22-May-2020",
+    "Reference": "'99990009029999",
+    "Debits": 4700,
+    "Credits": 0,
+    "Balance": 35141.11,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "POS/WEB PURCHASE TRANSACTION  -000902-"
+  },
+  {
+    "TransDate": "23-May-2020",
+    "ValueDate": "23-May-2020",
+    "Reference": "'0NIPT",
+    "Debits": 0,
+    "Credits": 112000,
+    "Balance": 147141.11,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "WithdrawalCowrywise Financial Technology"
+  },
+  {
+    "TransDate": "23-May-2020",
+    "ValueDate": "23-May-2020",
+    "Reference": "'0NIPT",
+    "Debits": 0,
+    "Credits": 32958.29,
+    "Balance": 180099.4,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "TRANSFER BETWEEN CUSTOMERS"
+  },
+  {
+    "TransDate": "23-May-2020",
+    "ValueDate": "23-May-2020",
+    "Reference": "'0GWTR",
+    "Debits": 30000,
+    "Credits": 0,
+    "Balance": 150099.4,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "REF:240225864000000300002005231519  from"
+  },
+  {
+    "TransDate": "23-May-2020",
+    "ValueDate": "23-May-2020",
+    "Reference": "'0NIPG",
+    "Debits": 5000,
+    "Credits": 0,
+    "Balance": 145099.4,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "NIBSS Instant Payment Outward"
+  },
+  {
+    "TransDate": "23-May-2020",
+    "ValueDate": "23-May-2020",
+    "Reference": "'0NIPG",
+    "Debits": 10,
+    "Credits": 0,
+    "Balance": 145089.4,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "000013200523175247000036545832 via GTWORLD"
+  },
+  {
+    "TransDate": "23-May-2020",
+    "ValueDate": "23-May-2020",
+    "Reference": "'0NIPG",
+    "Debits": 0.75,
+    "Credits": 0,
+    "Balance": 145088.65,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "VALUE ADDED TAX 000013200523175247000036545832"
+  },
+  {
+    "TransDate": "23-May-2020",
+    "ValueDate": "23-May-2020",
+    "Reference": "'0",
+    "Debits": 100,
+    "Credits": 0,
+    "Balance": 144988.65,
+    "OriginatingBranch": "CHEVRON DRIVE",
+    "Remarks": "STAMP DUTY CHARGE 23052020 STAMP DUTY"
+  },
+  {
+    "TransDate": "23-May-2020",
+    "ValueDate": "23-May-2020",
+    "Reference": "'380",
+    "Debits": 400,
+    "Credits": 0,
+    "Balance": 144588.65,
+    "OriginatingBranch": "CHEVRON DRIVE",
+    "Remarks": " SMS ALERT CHARGE FOR 24APR2020-21MAY2020"
+  },
+  {
+    "TransDate": "24-May-2020",
+    "ValueDate": "24-May-2020",
+    "Reference": "'99990174609999",
+    "Debits": 3550,
+    "Credits": 0,
+    "Balance": 141038.65,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "POS/WEB PURCHASE TRANSACTION  -017460-"
+  },
+  {
+    "TransDate": "24-May-2020",
+    "ValueDate": "24-May-2020",
+    "Reference": "'0GWTR",
+    "Debits": 30000,
+    "Credits": 0,
+    "Balance": 111038.65,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "TRANSFER BETWEEN CUSTOMERS Via GTWorld"
+  },
+  {
+    "TransDate": "24-May-2020",
+    "ValueDate": "24-May-2020",
+    "Reference": "'0GWTR",
+    "Debits": 54000,
+    "Credits": 0,
+    "Balance": 57038.65,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "REF:240225864000000540002005240950  from MICHAEL"
+  },
+  {
+    "TransDate": "24-May-2020",
+    "ValueDate": "24-May-2020",
+    "Reference": "'0GWTR",
+    "Debits": 24000,
+    "Credits": 0,
+    "Balance": 33038.65,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "TRANSFER BETWEEN CUSTOMERS Via GTWorld"
+  },
+  {
+    "TransDate": "24-May-2020",
+    "ValueDate": "24-May-2020",
+    "Reference": "'0GWTR",
+    "Debits": 8800,
+    "Credits": 0,
+    "Balance": 24238.65,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "REF:240225864000000088002005240954  from MICHAEL"
+  },
+  {
+    "TransDate": "24-May-2020",
+    "ValueDate": "24-May-2020",
+    "Reference": "'0GWTR",
+    "Debits": 2000,
+    "Credits": 0,
+    "Balance": 22238.65,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "TRANSFER BETWEEN CUSTOMERS Via GTWorld Built"
+  },
+  {
+    "TransDate": "24-May-2020",
+    "ValueDate": "24-May-2020",
+    "Reference": "'0GWTR",
+    "Debits": 1100,
+    "Credits": 0,
+    "Balance": 21138.65,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "Megaphone   REF:240225864000000011002005240956"
+  },
+  {
+    "TransDate": "24-May-2020",
+    "ValueDate": "24-May-2020",
+    "Reference": "'0MBTR",
+    "Debits": 0,
+    "Credits": 30000,
+    "Balance": 51138.65,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "TRANSFER BETWEEN CUSTOMERS MBANKING -"
+  },
+  {
+    "TransDate": "24-May-2020",
+    "ValueDate": "24-May-2020",
+    "Reference": "'0GWTR",
+    "Debits": 5000,
+    "Credits": 0,
+    "Balance": 46138.65,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "from Mel   REF:240225864000000050002005241329"
+  },
+  {
+    "TransDate": "24-May-2020",
+    "ValueDate": "24-May-2020",
+    "Reference": "'99994086899999",
+    "Debits": 6140,
+    "Credits": 0,
+    "Balance": 39998.65,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "POS/WEB PURCHASE TRANSACTION  -408689-"
+  },
+  {
+    "TransDate": "24-May-2020",
+    "ValueDate": "24-May-2020",
+    "Reference": "'0",
+    "Debits": 50,
+    "Credits": 0,
+    "Balance": 39948.65,
+    "OriginatingBranch": "CHEVRON DRIVE",
+    "Remarks": "STAMP DUTY CHARGE 24052020 STAMP DUTY"
+  },
+  {
+    "TransDate": "25-May-2020",
+    "ValueDate": "25-May-2020",
+    "Reference": "'99995562149999",
+    "Debits": 1589,
+    "Credits": 0,
+    "Balance": 38359.65,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "POS/WEB PURCHASE TRANSACTION  -556214-"
+  },
+  {
+    "TransDate": "25-May-2020",
+    "ValueDate": "25-May-2020",
+    "Reference": "'0USAT",
+    "Debits": 2000,
+    "Credits": 0,
+    "Balance": 36359.65,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "Airtime Purchase"
+  },
+  {
+    "TransDate": "25-May-2020",
+    "ValueDate": "25-May-2020",
+    "Reference": "'99996612129999",
+    "Debits": 1514,
+    "Credits": 0,
+    "Balance": 34845.65,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "POS/WEB PURCHASE TRANSACTION  -661212-"
+  },
+  {
+    "TransDate": "25-May-2020",
+    "ValueDate": "25-May-2020",
+    "Reference": "'0GWTR",
+    "Debits": 3000,
+    "Credits": 0,
+    "Balance": 31845.65,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "laundry fee   REF:240225864000000030002005251923"
+  },
+  {
+    "TransDate": "25-May-2020",
+    "ValueDate": "25-May-2020",
+    "Reference": "'99997315429999",
+    "Debits": 13791.12,
+    "Credits": 0,
+    "Balance": 18054.53,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "POS/WEB PURCHASE TRANSACTION  -731542-"
+  },
+  {
+    "TransDate": "26-May-2020",
+    "ValueDate": "26-May-2020",
+    "Reference": "'99998212879999",
+    "Debits": 752,
+    "Credits": 0,
+    "Balance": 17302.53,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "POS/WEB PURCHASE TRANSACTION  -821287-"
+  },
+  {
+    "TransDate": "26-May-2020",
+    "ValueDate": "26-May-2020",
+    "Reference": "'99990176679999",
+    "Debits": 4150,
+    "Credits": 0,
+    "Balance": 13152.53,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "POS/WEB PURCHASE TRANSACTION  -017667-"
+  },
+  {
+    "TransDate": "26-May-2020",
+    "ValueDate": "26-May-2020",
+    "Reference": "'99990145359999",
+    "Debits": 1300,
+    "Credits": 0,
+    "Balance": 11852.53,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "POS/WEB PURCHASE TRANSACTION  -014535-"
+  },
+  {
+    "TransDate": "26-May-2020",
+    "ValueDate": "26-May-2020",
+    "Reference": "'99998342819999",
+    "Debits": 500,
+    "Credits": 0,
+    "Balance": 11352.53,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "POS/WEB PURCHASE TRANSACTION  -834281-"
+  },
+  {
+    "TransDate": "26-May-2020",
+    "ValueDate": "26-May-2020",
+    "Reference": "'0NIPT",
+    "Debits": 0,
+    "Credits": 370000,
+    "Balance": 381352.53,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "Spend|62342657|STANBIC|MEL AKANIYENE MICHAEL"
+  },
+  {
+    "TransDate": "26-May-2020",
+    "ValueDate": "26-May-2020",
+    "Reference": "'99998434839999",
+    "Debits": 1000,
+    "Credits": 0,
+    "Balance": 380352.53,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "POS/WEB PURCHASE TRANSACTION  -843483-"
+  },
+  {
+    "TransDate": "26-May-2020",
+    "ValueDate": "26-May-2020",
+    "Reference": "'99998435019999",
+    "Debits": 400,
+    "Credits": 0,
+    "Balance": 379952.53,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "POS/WEB PURCHASE TRANSACTION  -843501-"
+  },
+  {
+    "TransDate": "26-May-2020",
+    "ValueDate": "26-May-2020",
+    "Reference": "'0",
+    "Debits": 50,
+    "Credits": 0,
+    "Balance": 379902.53,
+    "OriginatingBranch": "CHEVRON DRIVE",
+    "Remarks": "STAMP DUTY CHARGE 26052020 STAMP DUTY"
+  },
+  {
+    "TransDate": "27-May-2020",
+    "ValueDate": "27-May-2020",
+    "Reference": "'99999452569999",
+    "Debits": 21450,
+    "Credits": 0,
+    "Balance": 358452.53,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "-762956-PAYPAL *HEROSHE        4029357733     LU  55"
+  },
+  {
+    "TransDate": "27-May-2020",
+    "ValueDate": "27-May-2020",
+    "Reference": "'99999688709999",
+    "Debits": 2900,
+    "Credits": 0,
+    "Balance": 355552.53,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "POS/WEB PURCHASE TRANSACTION  -968870-"
+  },
+  {
+    "TransDate": "28-May-2020",
+    "ValueDate": "28-May-2020",
+    "Reference": "'0FC",
+    "Debits": 0,
+    "Credits": 36000,
+    "Balance": 391552.53,
+    "OriginatingBranch": "635 AKIN ADESOLA",
+    "Remarks": "ACCELERATOR//Refund for Overpayment"
+  },
+  {
+    "TransDate": "28-May-2020",
+    "ValueDate": "28-May-2020",
+    "Reference": "'0NIPG",
+    "Debits": 10000,
+    "Credits": 0,
+    "Balance": 381552.53,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "NIBSS Instant Payment Outward"
+  },
+  {
+    "TransDate": "28-May-2020",
+    "ValueDate": "28-May-2020",
+    "Reference": "'0NIPG",
+    "Debits": 25,
+    "Credits": 0,
+    "Balance": 381527.53,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "000013200528092038000040220809 via GTWORLD"
+  },
+  {
+    "TransDate": "28-May-2020",
+    "ValueDate": "28-May-2020",
+    "Reference": "'0NIPG",
+    "Debits": 1.87,
+    "Credits": 0,
+    "Balance": 381525.66,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "VALUE ADDED TAX 000013200528092038000040220809"
+  },
+  {
+    "TransDate": "28-May-2020",
+    "ValueDate": "28-May-2020",
+    "Reference": "'0GWTR",
+    "Debits": 32000,
+    "Credits": 0,
+    "Balance": 349525.66,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "Evesorganic Juice"
+  },
+  {
+    "TransDate": "28-May-2020",
+    "ValueDate": "28-May-2020",
+    "Reference": "'0GWTR",
+    "Debits": 10000,
+    "Credits": 0,
+    "Balance": 339525.66,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "TRANSFER BETWEEN CUSTOMERS Via GTWorld Token"
+  },
+  {
+    "TransDate": "28-May-2020",
+    "ValueDate": "28-May-2020",
+    "Reference": "'0GWTR",
+    "Debits": 10000,
+    "Credits": 0,
+    "Balance": 329525.66,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "from Mel   REF:240225864000000100002005280911"
+  },
+  {
+    "TransDate": "28-May-2020",
+    "ValueDate": "28-May-2020",
+    "Reference": "'0GWTR",
+    "Debits": 5000,
+    "Credits": 0,
+    "Balance": 324525.66,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "TRANSFER BETWEEN CUSTOMERS Via GTWorld Token"
+  },
+  {
+    "TransDate": "28-May-2020",
+    "ValueDate": "28-May-2020",
+    "Reference": "'0GWTR",
+    "Debits": 5000,
+    "Credits": 0,
+    "Balance": 319525.66,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "from Mel   REF:240225864000000050002005280916"
+  },
+  {
+    "TransDate": "28-May-2020",
+    "ValueDate": "28-May-2020",
+    "Reference": "'0",
+    "Debits": 50,
+    "Credits": 0,
+    "Balance": 319475.66,
+    "OriginatingBranch": "CHEVRON DRIVE",
+    "Remarks": "STAMP DUTY CHARGE 28052020 STAMP DUTY"
+  },
+  {
+    "TransDate": "29-May-2020",
+    "ValueDate": "29-May-2020",
+    "Reference": "'0GWTR",
+    "Debits": 36000,
+    "Credits": 0,
+    "Balance": 283475.66,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "REF:240225864000000360002005291235  from MICHAEL"
+  },
+  {
+    "TransDate": "29-May-2020",
+    "ValueDate": "29-May-2020",
+    "Reference": "'0NIPG",
+    "Debits": 20000,
+    "Credits": 0,
+    "Balance": 263475.66,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "NIBSS Instant Payment Outward"
+  },
+  {
+    "TransDate": "29-May-2020",
+    "ValueDate": "29-May-2020",
+    "Reference": "'0NIPG",
+    "Debits": 25,
+    "Credits": 0,
+    "Balance": 263450.66,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "000013200529134821000041576349 via GTWORLD Pizza"
+  },
+  {
+    "TransDate": "29-May-2020",
+    "ValueDate": "29-May-2020",
+    "Reference": "'0NIPG",
+    "Debits": 1.87,
+    "Credits": 0,
+    "Balance": 263448.79,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "VALUE ADDED TAX 000013200529134821000041576349"
+  },
+  {
+    "TransDate": "29-May-2020",
+    "ValueDate": "29-May-2020",
+    "Reference": "'0GWTR",
+    "Debits": 15000,
+    "Credits": 0,
+    "Balance": 248448.79,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "Wears   REF:240225864000000150002005291403  from"
+  },
+  {
+    "TransDate": "29-May-2020",
+    "ValueDate": "29-May-2020",
+    "Reference": "'99999117469999",
+    "Debits": 24000,
+    "Credits": 0,
+    "Balance": 224448.79,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "POS/WEB PURCHASE TRANSACTION  -911746-"
+  },
+  {
+    "TransDate": "29-May-2020",
+    "ValueDate": "29-May-2020",
+    "Reference": "'0NIPG",
+    "Debits": 10000,
+    "Credits": 0,
+    "Balance": 214448.79,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "Gift for Teju TO ACCESS/TOLULOPE MOJIRADE"
+  },
+  {
+    "TransDate": "29-May-2020",
+    "ValueDate": "29-May-2020",
+    "Reference": "'0NIPG",
+    "Debits": 25,
+    "Credits": 0,
+    "Balance": 214423.79,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "COMMISSION 000013200529170134000041848140 NIP"
+  },
+  {
+    "TransDate": "29-May-2020",
+    "ValueDate": "29-May-2020",
+    "Reference": "'0NIPG",
+    "Debits": 1.87,
+    "Credits": 0,
+    "Balance": 214421.92,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "000013200529170134000041848140 via GTWORLD Mel -"
+  },
+  {
+    "TransDate": "30-May-2020",
+    "ValueDate": "30-May-2020",
+    "Reference": "'0USAT",
+    "Debits": 2000,
+    "Credits": 0,
+    "Balance": 212421.92,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "Airtime Purchase"
+  },
+  {
+    "TransDate": "30-May-2020",
+    "ValueDate": "30-May-2020",
+    "Reference": "'99990146189999",
+    "Debits": 3800,
+    "Credits": 0,
+    "Balance": 208621.92,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "POS/WEB PURCHASE TRANSACTION  -014618-"
+  },
+  {
+    "TransDate": "30-May-2020",
+    "ValueDate": "30-May-2020",
+    "Reference": "'99990117329999",
+    "Debits": 10000,
+    "Credits": 0,
+    "Balance": 198621.92,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "CASH WITHDRAWAL FROM OTHER ATM  -011732-"
+  },
+  {
+    "TransDate": "30-May-2020",
+    "ValueDate": "30-May-2020",
+    "Reference": "'99990766539999",
+    "Debits": 20000,
+    "Credits": 0,
+    "Balance": 178621.92,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "CASH WITHDRAWAL FROM OTHER ATM  -076653-"
+  },
+  {
+    "TransDate": "30-May-2020",
+    "ValueDate": "30-May-2020",
+    "Reference": "'99990802919999",
+    "Debits": 20000,
+    "Credits": 0,
+    "Balance": 158621.92,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "CASH WITHDRAWAL FROM OTHER ATM  -080291-"
+  },
+  {
+    "TransDate": "30-May-2020",
+    "ValueDate": "30-May-2020",
+    "Reference": "'0USGT",
+    "Debits": 0,
+    "Credits": 10000,
+    "Balance": 168621.92,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "TEMITOPE to MICHAEL MEL AKANIYENE"
+  },
+  {
+    "TransDate": "30-May-2020",
+    "ValueDate": "30-May-2020",
+    "Reference": "'0NIPT",
+    "Debits": 0,
+    "Credits": 21450,
+    "Balance": 190071.92,
+    "OriginatingBranch": "E- CHANNELS",
+    "Remarks": "TRANSFER BETWEEN CUSTOMERS"
+  },
+  {
+    "TransDate": "30-May-2020",
+    "ValueDate": "30-May-2020",
+    "Reference": "'0",
+    "Debits": 100,
+    "Credits": 0,
+    "Balance": 189971.92,
+    "OriginatingBranch": "CHEVRON DRIVE",
+    "Remarks": "STAMP DUTY CHARGE 30052020 STAMP DUTY"
+  }
+]

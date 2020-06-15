@@ -1,0 +1,1970 @@
+[
+  [
+    "Currency",
+    "Naira",
+    "CUSTOMER STATEMENT"
+  ],
+  [
+    "Opening Balance",
+    "281,454.61",
+    "MICHAEL MEL AKANIYENE"
+  ],
+  [
+    "Statement Period",
+    "01-May-2020-31-May-2020"
+  ],
+  [
+    "Branch Name",
+    "CHEVRON DRIVE"
+  ],
+  [
+    "Account No.",
+    "001XXXX183"
+  ],
+  [
+    "Internal Reference",
+    "240/22XXX4/225864/59/0"
+  ],
+  [
+    "Account Type",
+    "SAVINGS ACCOUNT"
+  ],
+  [
+    "Trans. Date",
+    "Value Date",
+    "Reference",
+    "Debits",
+    "Credits",
+    "Balance",
+    "Originating Branch",
+    "Remarks"
+  ],
+  [
+    "01-May-2020",
+    "30-Apr-2020",
+    "'0NIPT",
+    "           100,000.00",
+    "           381,454.61",
+    "E- CHANNELS",
+    "Transfer from UDONWA N UTIBE -",
+    "mac|000018200501000549000118579855|UNION|UDONW"
+  ],
+  [
+    "TRANSFER BETWEEN CUSTOMERS"
+  ],
+  [
+    "000018200501000549000118579855|MOBILE/UNION"
+  ],
+  [
+    "A N UTIBE"
+  ],
+  [
+    "REF:000018200501000549000118579855"
+  ],
+  [
+    "01-May-2020",
+    "01-May-2020",
+    "'0GWTR",
+    "             5,000.00",
+    "           376,454.61",
+    "E- CHANNELS",
+    "TRANSFER BETWEEN CUSTOMERS Via GTWorld Token"
+  ],
+  [
+    "from Mel   REF:240225864000000050002005011150"
+  ],
+  [
+    "from MICHAEL MEL AKANIYENE   to  OYEBOLA, GRACE"
+  ],
+  [
+    "ADEREMI A."
+  ],
+  [
+    "01-May-2020",
+    "01-May-2020",
+    "'0NIPG",
+    "             5,000.00",
+    "           371,454.61",
+    "E- CHANNELS",
+    "Token from Mel TO ZBN/COLLINS OMEIZA AJE"
+  ],
+  [
+    "NIBSS Instant Payment Outward"
+  ],
+  [
+    "000013200501115219000017541132 via GTWORLD"
+  ],
+  [
+    "/10.75/REF:GW2402258640000000500020050111  f"
+  ],
+  [
+    "01-May-2020",
+    "01-May-2020",
+    "'0NIPG",
+    "                10.00",
+    "           371,444.61",
+    "E- CHANNELS",
+    "COMMISSION 000013200501115219000017541132 NIP"
+  ],
+  [
+    "TRANSFER COMMISSION FOR"
+  ],
+  [
+    "000013200501115219000017541132 via GTWORLD"
+  ],
+  [
+    "Token from Mel TO ZBN/COLLINS OMEIZA AJE"
+  ],
+  [
+    "ReF:GW240225864000000050002005011152"
+  ],
+  [
+    "01-May-2020",
+    "01-May-2020",
+    "'0NIPG",
+    "                  .75",
+    "           371,443.86",
+    "E- CHANNELS",
+    "000013200501115219000017541132 via GTWORLD"
+  ],
+  [
+    "VALUE ADDED TAX 000013200501115219000017541132"
+  ],
+  [
+    "VAT ON NIP TRANSFER FOR"
+  ],
+  [
+    "Token from Mel TO ZBN/COLLINS OMEIZA AJE"
+  ],
+  [
+    "ReF:GW240225864000000050002005011152"
+  ],
+  [
+    "01-May-2020",
+    "01-May-2020",
+    "'0",
+    "                50.00",
+    "           371,393.86",
+    "CHEVRON DRIVE",
+    "STAMP DUTY CHARGE 01052020 STAMP DUTY"
+  ],
+  [
+    "CHARGE - 01/05/2020"
+  ],
+  [
+    "02-May-2020",
+    "02-May-2020",
+    "'0GWTR",
+    "            20,000.00",
+    "           351,393.86",
+    "E- CHANNELS",
+    "from Mel   REF:240225864000000200002005020520",
+    "from MICHAEL MEL AKANIYENE   to  AYION AHMED"
+  ],
+  [
+    "TRANSFER BETWEEN CUSTOMERS Via GTWorld Token"
+  ],
+  [
+    "ALLEN"
+  ],
+  [
+    "02-May-2020",
+    "02-May-2020",
+    "'99999603859999",
+    "            11,025.30",
+    "           340,368.56",
+    "E- CHANNELS",
+    "POS/WEB PURCHASE TRANSACTION  -960385-"
+  ],
+  [
+    "-352015-PAYPAL *MANEKRUSHLL    4029357733     LU"
+  ],
+  [
+    "28.27 USD"
+  ],
+  [
+    "02-May-2020",
+    "02-May-2020",
+    "'99999610029999",
+    "            46,538.70",
+    "           293,829.86",
+    "E- CHANNELS",
+    "-540846-PAYPAL *MANEKRUSHLL    4029357733     LU"
+  ],
+  [
+    "POS/WEB PURCHASE TRANSACTION  -961002-"
+  ],
+  [
+    "119.33 USD"
+  ],
+  [
+    "Trans. Date",
+    "Value Date",
+    "Reference",
+    "Debits",
+    "Credits",
+    "Balance",
+    "Originating Branch",
+    "Remarks"
+  ],
+  [
+    "02-May-2020",
+    "02-May-2020",
+    "'0GWTR",
+    "             5,000.00",
+    "           288,829.86",
+    "E- CHANNELS",
+    "TRANSFER BETWEEN CUSTOMERS Via GTWorld Token"
+  ],
+  [
+    "from Mel   REF:240225864000000050002005021037"
+  ],
+  [
+    "from MICHAEL MEL AKANIYENE   to  ADESANYA"
+  ],
+  [
+    "OLUWADARE GBENGA"
+  ],
+  [
+    "02-May-2020",
+    "02-May-2020",
+    "'0GWTR",
+    "            10,000.00",
+    "           278,829.86",
+    "E- CHANNELS",
+    "from Mel   REF:240225864000000100002005021050",
+    "from MICHAEL MEL AKANIYENE   to  ADEYEMI"
+  ],
+  [
+    "TRANSFER BETWEEN CUSTOMERS Via GTWorld Token"
+  ],
+  [
+    "OLUYEMI"
+  ],
+  [
+    "03-May-2020",
+    "03-May-2020",
+    "'99990026199999",
+    "             7,000.00",
+    "           271,829.86",
+    "E- CHANNELS",
+    "POS/WEB PURCHASE TRANSACTION  -002619-"
+  ],
+  [
+    "-273489-FOOD CONCEPTS & ENTERTALA           LANG"
+  ],
+  [
+    "03-May-2020",
+    "03-May-2020",
+    "'99999514289999",
+    "            13,710.00",
+    "           258,119.86",
+    "E- CHANNELS",
+    "POS/WEB PURCHASE TRANSACTION  -951428-",
+    "-311765-SHOP PERFECT LIMITED   LA           LANG"
+  ],
+  [
+    "04-May-2020",
+    "04-May-2020",
+    "'0USAT",
+    "             2,000.00",
+    "           256,119.86",
+    "E- CHANNELS",
+    "Airtime Purchase"
+  ],
+  [
+    "USSD-101CT0000000001729872027-2348088646559"
+  ],
+  [
+    "04-May-2020",
+    "04-May-2020",
+    "'99992436239999",
+    "            46,923.96",
+    "           209,195.90",
+    "E- CHANNELS",
+    "POS/WEB PURCHASE TRANSACTION  -243623-",
+    "-828216-ARTEE INDUSTRIES LTD   LANG           NG"
+  ],
+  [
+    "05-May-2020",
+    "05-May-2020",
+    "'0GWTR",
+    "             5,000.00",
+    "           204,195.90",
+    "E- CHANNELS",
+    "TRANSFER BETWEEN CUSTOMERS Via GTWorld Token"
+  ],
+  [
+    "from Mel   REF:240225864000000050002005050705"
+  ],
+  [
+    "from MICHAEL MEL AKANIYENE   to  NKAMUAWUNA"
+  ],
+  [
+    "EMMA CHINEDU"
+  ],
+  [
+    "05-May-2020",
+    "05-May-2020",
+    "'99996567589999",
+    "             8,500.00",
+    "           195,695.90",
+    "E- CHANNELS",
+    "-406844-3PG00021-GTPAY-QSERV RS NETWORK L"
+  ],
+  [
+    "POS/WEB PURCHASE TRANSACTION  -656758-"
+  ],
+  [
+    "LANG"
+  ],
+  [
+    "05-May-2020",
+    "05-May-2020",
+    "'99996569559999",
+    "             4,500.00",
+    "           191,195.90",
+    "E- CHANNELS",
+    "POS/WEB PURCHASE TRANSACTION  -656955-"
+  ],
+  [
+    "-410949-3PG00021-GTPAYQSE VER/S NETWORK L"
+  ],
+  [
+    "LANG"
+  ],
+  [
+    "05-May-2020",
+    "05-May-2020",
+    "'0NIPT",
+    "            16,000.00",
+    "           207,195.90",
+    "E- CHANNELS",
+    "969144113049|FBN|ODULANA JUBRIL ADEBOWALE"
+  ],
+  [
+    "TRANSFER BETWEEN CUSTOMERS"
+  ],
+  [
+    "000016200505173514000072216433|IB:HOSTING|637242"
+  ],
+  [
+    "REF:000016200505173514000072216433"
+  ],
+  [
+    "05-May-2020",
+    "05-May-2020",
+    "'0",
+    "                50.00",
+    "           207,145.90",
+    "CHEVRON DRIVE",
+    "STAMP DUTY CHARGE 05052020 STAMP DUTY"
+  ],
+  [
+    "CHARGE - 05/05/2020"
+  ],
+  [
+    "07-May-2020",
+    "07-May-2020",
+    "'0USAT",
+    "             2,000.00",
+    "           205,145.90",
+    "E- CHANNELS",
+    "Airtime Purchase",
+    "USSD-101CT0000000001735620823-2348088646559"
+  ],
+  [
+    "Trans. Date",
+    "Value Date",
+    "Reference",
+    "Debits",
+    "Credits",
+    "Balance",
+    "Originating Branch",
+    "Remarks"
+  ],
+  [
+    "08-May-2020",
+    "08-May-2020",
+    "'0USAT",
+    "             2,000.00",
+    "           203,145.90",
+    "E- CHANNELS",
+    "Airtime Purchase"
+  ],
+  [
+    "USSD-101CT0000000001737761180-2348088646559"
+  ],
+  [
+    "09-May-2020",
+    "09-May-2020",
+    "'99999568489999",
+    "             2,646.17",
+    "           200,499.73",
+    "E- CHANNELS",
+    "-353905-3PG00021-GTP-AYQSERVERS N TWORK L"
+  ],
+  [
+    "POS/WEB PURCHASE TRANSACTION  -956848-"
+  ],
+  [
+    "LANG"
+  ],
+  [
+    "10-May-2020",
+    "10-May-2020",
+    "'0MBTR",
+    "            20,000.00",
+    "           220,499.73",
+    "E- CHANNELS",
+    "TRANSFER BETWEEN CUSTOMERS MBANKING -"
+  ],
+  [
+    "Voice Over Bank and Academy Website renewal"
+  ],
+  [
+    "REF:307902852029406740004980466286 ANY Account"
+  ],
+  [
+    "Transfer   from SOBOMEHIN OLUWASEUN, TIMILEHIN"
+  ],
+  [
+    "to  MICHAEL MEL AKANIYENE"
+  ],
+  [
+    "10-May-2020",
+    "10-May-2020",
+    "'0",
+    "                50.00",
+    "           220,449.73",
+    "CHEVRON DRIVE",
+    "STAMP DUTY CHARGE 10052020 STAMP DUTY",
+    "CHARGE - 10/05/2020"
+  ],
+  [
+    "11-May-2020",
+    "11-May-2020",
+    "'0MBTR",
+    "            10,000.00",
+    "           210,449.73",
+    "E- CHANNELS",
+    "TRANSFER BETWEEN CUSTOMERS MBANKING -"
+  ],
+  [
+    "Mumâ€™s treatment bill"
+  ],
+  [
+    "REF:903343192170387000001442863853 ANY Account"
+  ],
+  [
+    "Transfer   from MICHAEL MEL AKANIYENE   to  MICHAEL"
+  ],
+  [
+    "PEACE NSIKAN"
+  ],
+  [
+    "11-May-2020",
+    "11-May-2020",
+    "'0GWTR",
+    "            58,000.00",
+    "           152,449.73",
+    "E- CHANNELS",
+    "REF:240225864000000580002005110242  from"
+  ],
+  [
+    "TRANSFER BETWEEN CUSTOMERS Via GTWorld Jeans"
+  ],
+  [
+    "MICHAEL MEL AKANIYENE   to  AKINTAYO, IDRIS"
+  ],
+  [
+    "12-May-2020",
+    "11-May-2020",
+    "'99992375569999",
+    "               761.00",
+    "           151,688.73",
+    "E- CHANNELS",
+    "POS/WEB PURCHASE TRANSACTION  -237556-"
+  ],
+  [
+    "-304208-UBER*FLW               LAGOS ISLAND   NG"
+  ],
+  [
+    "12-May-2020",
+    "12-May-2020",
+    "'99992600649999",
+    "               433.00",
+    "           151,255.73",
+    "E- CHANNELS",
+    "POS/WEB PURCHASE TRANSACTION  -260064-",
+    "-270420-UBER*FLW               LAGOS ISLAND   NG"
+  ],
+  [
+    "12-May-2020",
+    "12-May-2020",
+    "'99992601609999",
+    "                90.00",
+    "           151,165.73",
+    "E- CHANNELS",
+    "POS/WEB PURCHASE TRANSACTION  -260160-"
+  ],
+  [
+    "-022342-UBER*FLW               LAGOS ISLAND   NG"
+  ],
+  [
+    "12-May-2020",
+    "12-May-2020",
+    "'99992779779999",
+    "               872.00",
+    "           150,293.73",
+    "E- CHANNELS",
+    "POS/WEB PURCHASE TRANSACTION  -277977-",
+    "-238027-UBER*FLW               LAGOS ISLAND   NG"
+  ],
+  [
+    "12-May-2020",
+    "12-May-2020",
+    "'99996340259999",
+    "             3,650.00",
+    "           146,643.73",
+    "E- CHANNELS",
+    "POS/WEB PURCHASE TRANSACTION  -634025-"
+  ],
+  [
+    "-387657-FOOD CONCEPTS PLCCHI   LA           LANG"
+  ],
+  [
+    "13-May-2020",
+    "13-May-2020",
+    "'99993498319999",
+    "                70.00",
+    "           146,573.73",
+    "E- CHANNELS",
+    "POS/WEB PURCHASE TRANSACTION  -349831-",
+    "-547809-UBER*FLW               LAGOS ISLAND   NG"
+  ],
+  [
+    "13-May-2020",
+    "13-May-2020",
+    "'0USAT",
+    "             2,000.00",
+    "           144,573.73",
+    "E- CHANNELS",
+    "Airtime Purchase"
+  ],
+  [
+    "USSD-101CT0000000001745184210-2348088646559"
+  ],
+  [
+    "Trans. Date",
+    "Value Date",
+    "Reference",
+    "Debits",
+    "Credits",
+    "Balance",
+    "Originating Branch",
+    "Remarks"
+  ],
+  [
+    "13-May-2020",
+    "13-May-2020",
+    "'99993488759999",
+    "             8,500.00",
+    "           136,073.73",
+    "E- CHANNELS",
+    "-051856-3PG00021-GTPAYQSERVERS NETWORK-/L"
+  ],
+  [
+    "POS/WEB PURCHASE TRANSACTION  -348875-"
+  ],
+  [
+    "LANG"
+  ],
+  [
+    "13-May-2020",
+    "13-May-2020",
+    "'99993490459999",
+    "             1,100.00",
+    "           134,973.73",
+    "E- CHANNELS",
+    "POS/WEB PURCHASE TRANSACTION  -349045-"
+  ],
+  [
+    "-054447-3PG00021-GTPAYQSER-VERS NE WORK L"
+  ],
+  [
+    "LANG"
+  ],
+  [
+    "14-May-2020",
+    "14-May-2020",
+    "'0NIPT",
+    "            57,500.00",
+    "           192,473.73",
+    "E- CHANNELS",
+    "2|ZBN|UTIBE NDIFREKE UDONWA"
+  ],
+  [
+    "TRANSFER BETWEEN CUSTOMERS"
+  ],
+  [
+    "000015200514183904000922624924|Manekrush|7462520"
+  ],
+  [
+    "REF:000015200514183904000922624924"
+  ],
+  [
+    "14-May-2020",
+    "14-May-2020",
+    "'0",
+    "                50.00",
+    "           192,423.73",
+    "CHEVRON DRIVE",
+    "STAMP DUTY CHARGE 14052020 STAMP DUTY"
+  ],
+  [
+    "CHARGE - 14/05/2020"
+  ],
+  [
+    "15-May-2020",
+    "15-May-2020",
+    "'99996548699999",
+    "             9,658.00",
+    "           182,765.73",
+    "E- CHANNELS",
+    "POS/WEB PURCHASE TRANSACTION  -654869-",
+    "-862141-ARTEE INDUSTRIES LIM   LANG           NG"
+  ],
+  [
+    "15-May-2020",
+    "15-May-2020",
+    "'0NIPT",
+    "             9,658.00",
+    "           192,423.73",
+    "E- CHANNELS",
+    "TRANSFER BETWEEN CUSTOMERS"
+  ],
+  [
+    "000014200515063840211831405714|TRF/From Ralph"
+  ],
+  [
+    "thanks man/FRM OREOFE ADETOLA OLUTOLA TO"
+  ],
+  [
+    "MICHAEL|VNM3702029567966836|ACCESS|OREOFE"
+  ],
+  [
+    "ADETOLA OLUTOLA"
+  ],
+  [
+    "REF:000014200515063840211831405714"
+  ],
+  [
+    "15-May-2020",
+    "15-May-2020",
+    "'99997029029999",
+    "             6,240.00",
+    "           186,183.73",
+    "E- CHANNELS",
+    "POS/WEB PURCHASE TRANSACTION  -702902-",
+    "-876080-ARTEE INDUSTRIES LIM   LANG           NG"
+  ],
+  [
+    "15-May-2020",
+    "15-May-2020",
+    "'0USAT",
+    "               140.00",
+    "           186,043.73",
+    "E- CHANNELS",
+    "Airtime Purchase"
+  ],
+  [
+    "USSD-101CT0000000001749173163-2348088646559"
+  ],
+  [
+    "15-May-2020",
+    "15-May-2020",
+    "'0USAT",
+    "             2,000.00",
+    "           184,043.73",
+    "E- CHANNELS",
+    "Airtime Purchase",
+    "USSD-101CT0000000001749176392-2348088646559"
+  ],
+  [
+    "18-May-2020",
+    "18-May-2020",
+    "'99998627139999",
+    "            10,650.00",
+    "           173,393.73",
+    "E- CHANNELS",
+    "POS/WEB PURCHASE TRANSACTION  -862713-"
+  ],
+  [
+    "-751678-PAYU_WEBPURCHASE_PAYME LAGOS"
+  ],
+  [
+    "ISLAND   NG"
+  ],
+  [
+    "18-May-2020",
+    "18-May-2020",
+    "'0NIPG",
+    "             4,930.00",
+    "           168,463.73",
+    "E- CHANNELS",
+    "April Bill TO KEY/BAKARE GBOLAHAN ABIDEEN"
+  ],
+  [
+    "NIBSS Instant Payment Outward"
+  ],
+  [
+    "000013200518053918000031080291 via GTWORLD Mel"
+  ],
+  [
+    "/10.75/REF:GW2402258640000000493020051805  f"
+  ],
+  [
+    "Trans. Date",
+    "Value Date",
+    "Reference",
+    "Debits",
+    "Credits",
+    "Balance",
+    "Originating Branch",
+    "Remarks"
+  ],
+  [
+    "18-May-2020",
+    "18-May-2020",
+    "'0NIPG",
+    "                10.00",
+    "           168,453.73",
+    "E- CHANNELS",
+    "COMMISSION 000013200518053918000031080291 NIP"
+  ],
+  [
+    "TRANSFER COMMISSION FOR"
+  ],
+  [
+    "000013200518053918000031080291 via GTWORLD Mel"
+  ],
+  [
+    "April Bill TO KEY/BAKARE GBOLAHAN ABIDEEN"
+  ],
+  [
+    "ReF:GW240225864000000049302005180538"
+  ],
+  [
+    "18-May-2020",
+    "18-May-2020",
+    "'0NIPG",
+    "                  .75",
+    "           168,452.98",
+    "E- CHANNELS",
+    "000013200518053918000031080291 via GTWORLD Mel"
+  ],
+  [
+    "VALUE ADDED TAX 000013200518053918000031080291"
+  ],
+  [
+    "VAT ON NIP TRANSFER FOR"
+  ],
+  [
+    "April Bill TO KEY/BAKARE GBOLAHAN ABIDEEN"
+  ],
+  [
+    "ReF:GW240225864000000049302005180538"
+  ],
+  [
+    "18-May-2020",
+    "18-May-2020",
+    "'0USAT",
+    "             2,000.00",
+    "           166,452.98",
+    "E- CHANNELS",
+    "Airtime Purchase"
+  ],
+  [
+    "USSD-101CT0000000001754846739-2348088646559"
+  ],
+  [
+    "21-May-2020",
+    "21-May-2020",
+    "'99993964929999",
+    "             1,003.00",
+    "           165,449.98",
+    "E- CHANNELS",
+    "POS/WEB PURCHASE TRANSACTION  -396492-",
+    "-854531-UBER*FLW               LAGOS ISLAND   NG"
+  ],
+  [
+    "21-May-2020",
+    "21-May-2020",
+    "'99993966989999",
+    "             1,332.00",
+    "           164,117.98",
+    "E- CHANNELS",
+    "POS/WEB PURCHASE TRANSACTION  -396698-"
+  ],
+  [
+    "-174979-UBER*FLW               LAGOS ISLAND   NG"
+  ],
+  [
+    "21-May-2020",
+    "21-May-2020",
+    "'0USAT",
+    "             2,000.00",
+    "           162,117.98",
+    "E- CHANNELS",
+    "Airtime Purchase",
+    "USSD-101CT0000000001760715701-2348088646559"
+  ],
+  [
+    "22-May-2020",
+    "22-May-2020",
+    "'0NIPG",
+    "            10,000.00",
+    "           152,117.98",
+    "E- CHANNELS",
+    "NIBSS Instant Payment Outward"
+  ],
+  [
+    "000013200522075721000034690487 via GTWORLD It is a"
+  ],
+  [
+    "gift  TO UNION/OKECHUKWU EMEKA JUDE"
+  ],
+  [
+    "/26.875/REF:GW2402258640000001000020052207  f"
+  ],
+  [
+    "22-May-2020",
+    "22-May-2020",
+    "'0NIPG",
+    "                25.00",
+    "           152,092.98",
+    "E- CHANNELS",
+    "000013200522075721000034690487 via GTWORLD It is a"
+  ],
+  [
+    "COMMISSION 000013200522075721000034690487 NIP"
+  ],
+  [
+    "TRANSFER COMMISSION FOR"
+  ],
+  [
+    "gift  TO UNION/OKECHUKWU EMEKA JUDE"
+  ],
+  [
+    "ReF:GW240225864000000100002005220756"
+  ],
+  [
+    "22-May-2020",
+    "22-May-2020",
+    "'0NIPG",
+    "                 1.87",
+    "           152,091.11",
+    "E- CHANNELS",
+    "VALUE ADDED TAX 000013200522075721000034690487"
+  ],
+  [
+    "VAT ON NIP TRANSFER FOR"
+  ],
+  [
+    "000013200522075721000034690487 via GTWORLD It is a"
+  ],
+  [
+    "gift  TO UNION/OKECHUKWU EMEKA JUDE"
+  ],
+  [
+    "ReF:GW240225864000000100002005220756"
+  ],
+  [
+    "22-May-2020",
+    "22-May-2020",
+    "'0GWTR",
+    "            10,000.00",
+    "           142,091.11",
+    "E- CHANNELS",
+    "for sch fee   REF:240225864000000100002005220758",
+    "from MICHAEL MEL AKANIYENE   to  IGWEBUIKE"
+  ],
+  [
+    "TRANSFER BETWEEN CUSTOMERS Via GTWorld Token"
+  ],
+  [
+    "ONYINYE SYLVIA"
+  ],
+  [
+    "Trans. Date",
+    "Value Date",
+    "Reference",
+    "Debits",
+    "Credits",
+    "Balance",
+    "Originating Branch",
+    "Remarks"
+  ],
+  [
+    "22-May-2020",
+    "22-May-2020",
+    "'0GWTR",
+    "           100,000.00",
+    "            42,091.11",
+    "E- CHANNELS",
+    "TRANSFER BETWEEN CUSTOMERS Via GTWorld My"
+  ],
+  [
+    "gift to you   REF:240225864000001000002005220823"
+  ],
+  [
+    "from MICHAEL MEL AKANIYENE   to  MICHAEL PEACE"
+  ],
+  [
+    "NSIKAN"
+  ],
+  [
+    "22-May-2020",
+    "22-May-2020",
+    "'99991580889999",
+    "             2,250.00",
+    "            39,841.11",
+    "E- CHANNELS",
+    "POS/WEB PURCHASE TRANSACTION  -158088-",
+    "-850220-3PG00001-E-Z/ASH                    LANG"
+  ],
+  [
+    "22-May-2020",
+    "22-May-2020",
+    "'99990009029999",
+    "             4,700.00",
+    "            35,141.11",
+    "E- CHANNELS",
+    "POS/WEB PURCHASE TRANSACTION  -000902-"
+  ],
+  [
+    "-877640-FOOD CONCEPTS & ENTERTALA           LANG"
+  ],
+  [
+    "23-May-2020",
+    "23-May-2020",
+    "'0NIPT",
+    "           112,000.00",
+    "           147,141.11",
+    "E- CHANNELS",
+    "WithdrawalCowrywise Financial Technology"
+  ],
+  [
+    "TRANSFER BETWEEN CUSTOMERS"
+  ],
+  [
+    "090175200523103654002358551601|Cowrywise"
+  ],
+  [
+    "Ltd|0002358551601|HMF|Paystack"
+  ],
+  [
+    "REF:090175200523103654002358551601"
+  ],
+  [
+    "23-May-2020",
+    "23-May-2020",
+    "'0NIPT",
+    "            32,958.29",
+    "           180,099.40",
+    "E- CHANNELS",
+    "TRANSFER BETWEEN CUSTOMERS"
+  ],
+  [
+    "090175200523104422002358588101|Cowrywise"
+  ],
+  [
+    "WithdrawalCowrywise Financial Technology"
+  ],
+  [
+    "Ltd|0002358588101|HMF|Paystack"
+  ],
+  [
+    "REF:090175200523104422002358588101"
+  ],
+  [
+    "23-May-2020",
+    "23-May-2020",
+    "'0GWTR",
+    "            30,000.00",
+    "           150,099.40",
+    "E- CHANNELS",
+    "REF:240225864000000300002005231519  from"
+  ],
+  [
+    "TRANSFER BETWEEN CUSTOMERS Via GTWorld wears"
+  ],
+  [
+    "MICHAEL MEL AKANIYENE   to  AKINTAYO, IDRIS"
+  ],
+  [
+    "23-May-2020",
+    "23-May-2020",
+    "'0NIPG",
+    "             5,000.00",
+    "           145,099.40",
+    "E- CHANNELS",
+    "NIBSS Instant Payment Outward"
+  ],
+  [
+    "000013200523175247000036545832 via GTWORLD"
+  ],
+  [
+    "Drugs TO ACCESS/MARTHA OLUCHI OKEREKE"
+  ],
+  [
+    "/10.75/REF:GW2402258640000000500020052317  f"
+  ],
+  [
+    "23-May-2020",
+    "23-May-2020",
+    "'0NIPG",
+    "                10.00",
+    "           145,089.40",
+    "E- CHANNELS",
+    "000013200523175247000036545832 via GTWORLD"
+  ],
+  [
+    "COMMISSION 000013200523175247000036545832 NIP"
+  ],
+  [
+    "TRANSFER COMMISSION FOR"
+  ],
+  [
+    "Drugs TO ACCESS/MARTHA OLUCHI OKEREKE"
+  ],
+  [
+    "ReF:GW240225864000000050002005231751"
+  ],
+  [
+    "23-May-2020",
+    "23-May-2020",
+    "'0NIPG",
+    "                  .75",
+    "           145,088.65",
+    "E- CHANNELS",
+    "VALUE ADDED TAX 000013200523175247000036545832"
+  ],
+  [
+    "VAT ON NIP TRANSFER FOR"
+  ],
+  [
+    "000013200523175247000036545832 via GTWORLD"
+  ],
+  [
+    "Drugs TO ACCESS/MARTHA OLUCHI OKEREKE"
+  ],
+  [
+    "ReF:GW240225864000000050002005231751"
+  ],
+  [
+    "Trans. Date",
+    "Value Date",
+    "Reference",
+    "Debits",
+    "Credits",
+    "Balance",
+    "Originating Branch",
+    "Remarks"
+  ],
+  [
+    "23-May-2020",
+    "23-May-2020",
+    "'0",
+    "               100.00",
+    "           144,988.65",
+    "CHEVRON DRIVE",
+    "STAMP DUTY CHARGE 23052020 STAMP DUTY",
+    "CHARGE - 23/05/2020"
+  ],
+  [
+    "23-May-2020",
+    "23-May-2020",
+    "'380",
+    "               400.00",
+    "           144,588.65",
+    "CHEVRON DRIVE",
+    " SMS ALERT CHARGE FOR 24APR2020-21MAY2020"
+  ],
+  [
+    "24-May-2020",
+    "24-May-2020",
+    "'99990174609999",
+    "             3,550.00",
+    "           141,038.65",
+    "E- CHANNELS",
+    "POS/WEB PURCHASE TRANSACTION  -017460-",
+    "-338651-IBILE FOODS LIMITED    LA           LANG"
+  ],
+  [
+    "24-May-2020",
+    "24-May-2020",
+    "'0GWTR",
+    "            30,000.00",
+    "           111,038.65",
+    "E- CHANNELS",
+    "TRANSFER BETWEEN CUSTOMERS Via GTWorld"
+  ],
+  [
+    "Monitors   REF:240225864000000300002005240947  from"
+  ],
+  [
+    "MICHAEL MEL AKANIYENE   to  ANDELA TALENT"
+  ],
+  [
+    "ACCELERATOR LTD"
+  ],
+  [
+    "24-May-2020",
+    "24-May-2020",
+    "'0GWTR",
+    "            54,000.00",
+    "            57,038.65",
+    "E- CHANNELS",
+    "REF:240225864000000540002005240950  from MICHAEL"
+  ],
+  [
+    "TRANSFER BETWEEN CUSTOMERS Via GTWorld 3"
+  ],
+  [
+    "Mesh Back Swivel Chairs"
+  ],
+  [
+    "MEL AKANIYENE   to  ANDELA TALENT ACCELERATOR"
+  ],
+  [
+    "LTD"
+  ],
+  [
+    "24-May-2020",
+    "24-May-2020",
+    "'0GWTR",
+    "            24,000.00",
+    "            33,038.65",
+    "E- CHANNELS",
+    "TRANSFER BETWEEN CUSTOMERS Via GTWorld"
+  ],
+  [
+    "Parasol Umbrella"
+  ],
+  [
+    "REF:240225864000000240002005240953  from MICHAEL"
+  ],
+  [
+    "MEL AKANIYENE   to  ANDELA TALENT ACCELERATOR"
+  ],
+  [
+    "LTD"
+  ],
+  [
+    "24-May-2020",
+    "24-May-2020",
+    "'0GWTR",
+    "             8,800.00",
+    "            24,238.65",
+    "E- CHANNELS",
+    "REF:240225864000000088002005240954  from MICHAEL"
+  ],
+  [
+    "TRANSFER BETWEEN CUSTOMERS Via GTWorld 1"
+  ],
+  [
+    "Office Table with Wooden legs"
+  ],
+  [
+    "MEL AKANIYENE   to  ANDELA TALENT ACCELERATOR"
+  ],
+  [
+    "LTD"
+  ],
+  [
+    "24-May-2020",
+    "24-May-2020",
+    "'0GWTR",
+    "             2,000.00",
+    "            22,238.65",
+    "E- CHANNELS",
+    "TRANSFER BETWEEN CUSTOMERS Via GTWorld Built"
+  ],
+  [
+    "Multiple Extension Box"
+  ],
+  [
+    "REF:240225864000000020002005240955  from MICHAEL"
+  ],
+  [
+    "MEL AKANIYENE   to  ANDELA TALENT ACCELERATOR"
+  ],
+  [
+    "LTD"
+  ],
+  [
+    "24-May-2020",
+    "24-May-2020",
+    "'0GWTR",
+    "             1,100.00",
+    "            21,138.65",
+    "E- CHANNELS",
+    "Megaphone   REF:240225864000000011002005240956",
+    "from MICHAEL MEL AKANIYENE   to  ANDELA TALENT"
+  ],
+  [
+    "TRANSFER BETWEEN CUSTOMERS Via GTWorld"
+  ],
+  [
+    "ACCELERATOR LTD"
+  ],
+  [
+    "24-May-2020",
+    "24-May-2020",
+    "'0MBTR",
+    "            30,000.00",
+    "            51,138.65",
+    "E- CHANNELS",
+    "TRANSFER BETWEEN CUSTOMERS MBANKING -"
+  ],
+  [
+    "REF:198250023514512500002620027474 ANY Account"
+  ],
+  [
+    "Transfer   from ADEGUNLOYE KOLADE SOLOMON  to"
+  ],
+  [
+    "MICHAEL MEL AKANIYENE"
+  ],
+  [
+    "Trans. Date",
+    "Value Date",
+    "Reference",
+    "Debits",
+    "Credits",
+    "Balance",
+    "Originating Branch",
+    "Remarks"
+  ],
+  [
+    "24-May-2020",
+    "24-May-2020",
+    "'0GWTR",
+    "             5,000.00",
+    "            46,138.65",
+    "E- CHANNELS",
+    "from Mel   REF:240225864000000050002005241329",
+    "from MICHAEL MEL AKANIYENE   to  NWANYE, EDITH"
+  ],
+  [
+    "TRANSFER BETWEEN CUSTOMERS Via GTWorld Token"
+  ],
+  [
+    "GIFT"
+  ],
+  [
+    "24-May-2020",
+    "24-May-2020",
+    "'99994086899999",
+    "             6,140.00",
+    "            39,998.65",
+    "E- CHANNELS",
+    "POS/WEB PURCHASE TRANSACTION  -408689-"
+  ],
+  [
+    "-969101-3PG00001-SMILE COMMS N G  M/YSMI    LANG"
+  ],
+  [
+    "24-May-2020",
+    "24-May-2020",
+    "'0",
+    "                50.00",
+    "            39,948.65",
+    "CHEVRON DRIVE",
+    "STAMP DUTY CHARGE 24052020 STAMP DUTY",
+    "CHARGE - 24/05/2020"
+  ],
+  [
+    "25-May-2020",
+    "25-May-2020",
+    "'99995562149999",
+    "             1,589.00",
+    "            38,359.65",
+    "E- CHANNELS",
+    "POS/WEB PURCHASE TRANSACTION  -556214-"
+  ],
+  [
+    "-760485-UBER*FLW               LAGOS ISLAND   NG"
+  ],
+  [
+    "25-May-2020",
+    "25-May-2020",
+    "'0USAT",
+    "             2,000.00",
+    "            36,359.65",
+    "E- CHANNELS",
+    "Airtime Purchase",
+    "USSD-101CT0000000001767410016-2348088646559"
+  ],
+  [
+    "25-May-2020",
+    "25-May-2020",
+    "'99996612129999",
+    "             1,514.00",
+    "            34,845.65",
+    "E- CHANNELS",
+    "POS/WEB PURCHASE TRANSACTION  -661212-"
+  ],
+  [
+    "-068992-UBER*FLW               LAGOS ISLAND   NG"
+  ],
+  [
+    "25-May-2020",
+    "25-May-2020",
+    "'0GWTR",
+    "             3,000.00",
+    "            31,845.65",
+    "E- CHANNELS",
+    "laundry fee   REF:240225864000000030002005251923",
+    "from MICHAEL MEL AKANIYENE   to  JOHN, UNYIME"
+  ],
+  [
+    "TRANSFER BETWEEN CUSTOMERS Via GTWorld Mel -"
+  ],
+  [
+    "SUNDAY"
+  ],
+  [
+    "25-May-2020",
+    "25-May-2020",
+    "'99997315429999",
+    "            13,791.12",
+    "            18,054.53",
+    "E- CHANNELS",
+    "POS/WEB PURCHASE TRANSACTION  -731542-"
+  ],
+  [
+    "-276302-ARTEE INDUSTRIES LIM   LANG           NG"
+  ],
+  [
+    "26-May-2020",
+    "26-May-2020",
+    "'99998212879999",
+    "               752.00",
+    "            17,302.53",
+    "E- CHANNELS",
+    "POS/WEB PURCHASE TRANSACTION  -821287-",
+    "-028983-UBER*FLW               LAGOS ISLAND   NG"
+  ],
+  [
+    "26-May-2020",
+    "26-May-2020",
+    "'99990176679999",
+    "             4,150.00",
+    "            13,152.53",
+    "E- CHANNELS",
+    "POS/WEB PURCHASE TRANSACTION  -017667-"
+  ],
+  [
+    "-770070-IBILE FOODS LIMITED    LA           LANG"
+  ],
+  [
+    "26-May-2020",
+    "26-May-2020",
+    "'99990145359999",
+    "             1,300.00",
+    "            11,852.53",
+    "E- CHANNELS",
+    "POS/WEB PURCHASE TRANSACTION  -014535-",
+    "-782270-CHICKEN REPUBLIC       LA           LANG"
+  ],
+  [
+    "26-May-2020",
+    "26-May-2020",
+    "'99998342819999",
+    "               500.00",
+    "            11,352.53",
+    "E- CHANNELS",
+    "POS/WEB PURCHASE TRANSACTION  -834281-"
+  ],
+  [
+    "-987186-BOLT_PAYU              LAGOS ISLAND   NG"
+  ],
+  [
+    "26-May-2020",
+    "26-May-2020",
+    "'0NIPT",
+    "           370,000.00",
+    "           381,352.53",
+    "E- CHANNELS",
+    "Spend|62342657|STANBIC|MEL AKANIYENE MICHAEL"
+  ],
+  [
+    "TRANSFER BETWEEN CUSTOMERS"
+  ],
+  [
+    "000012200526133817623426570000|Personal Monthly"
+  ],
+  [
+    "REF:000012200526133817623426570000"
+  ],
+  [
+    "Trans. Date",
+    "Value Date",
+    "Reference",
+    "Debits",
+    "Credits",
+    "Balance",
+    "Originating Branch",
+    "Remarks"
+  ],
+  [
+    "26-May-2020",
+    "26-May-2020",
+    "'99998434839999",
+    "             1,000.00",
+    "           380,352.53",
+    "E- CHANNELS",
+    "POS/WEB PURCHASE TRANSACTION  -843483-"
+  ],
+  [
+    "-307370-BOLT_PAYU              LAGOS ISLAND   NG"
+  ],
+  [
+    "26-May-2020",
+    "26-May-2020",
+    "'99998435019999",
+    "               400.00",
+    "           379,952.53",
+    "E- CHANNELS",
+    "POS/WEB PURCHASE TRANSACTION  -843501-",
+    "-717056-BOLT_PAYU              LAGOS ISLAND   NG"
+  ],
+  [
+    "26-May-2020",
+    "26-May-2020",
+    "'0",
+    "                50.00",
+    "           379,902.53",
+    "CHEVRON DRIVE",
+    "STAMP DUTY CHARGE 26052020 STAMP DUTY"
+  ],
+  [
+    "CHARGE - 26/05/2020"
+  ],
+  [
+    "27-May-2020",
+    "27-May-2020",
+    "'99999452569999",
+    "            21,450.00",
+    "           358,452.53",
+    "E- CHANNELS",
+    "-762956-PAYPAL *HEROSHE        4029357733     LU  55"
+  ],
+  [
+    "POS/WEB PURCHASE TRANSACTION  -945256-"
+  ],
+  [
+    "USD"
+  ],
+  [
+    "27-May-2020",
+    "27-May-2020",
+    "'99999688709999",
+    "             2,900.00",
+    "           355,552.53",
+    "E- CHANNELS",
+    "POS/WEB PURCHASE TRANSACTION  -968870-"
+  ],
+  [
+    "-035143-Netflix.com*Flutterwav Lekki          NG"
+  ],
+  [
+    "28-May-2020",
+    "28-May-2020",
+    "'0FC",
+    "            36,000.00",
+    "           391,552.53",
+    "635 AKIN ADESOLA",
+    "ACCELERATOR//Refund for Overpayment",
+    "in//10191820|20200528|01"
+  ],
+  [
+    "NEFT TRANSFER IBTC//NEFT//ANDELA TALENT"
+  ],
+  [
+    "Ref:NC00179001832014900070013443"
+  ],
+  [
+    "28-May-2020",
+    "28-May-2020",
+    "'0NIPG",
+    "            10,000.00",
+    "           381,552.53",
+    "E- CHANNELS",
+    "NIBSS Instant Payment Outward"
+  ],
+  [
+    "000013200528092038000040220809 via GTWORLD"
+  ],
+  [
+    "Token from Akan TO ZBN/HOPE UDOFIA AKPAN"
+  ],
+  [
+    "/26.875/REF:GW2402258640000001000020052809  f"
+  ],
+  [
+    "28-May-2020",
+    "28-May-2020",
+    "'0NIPG",
+    "                25.00",
+    "           381,527.53",
+    "E- CHANNELS",
+    "000013200528092038000040220809 via GTWORLD"
+  ],
+  [
+    "COMMISSION 000013200528092038000040220809 NIP"
+  ],
+  [
+    "TRANSFER COMMISSION FOR"
+  ],
+  [
+    "Token from Akan TO ZBN/HOPE UDOFIA AKPAN"
+  ],
+  [
+    "ReF:GW240225864000000100002005280919"
+  ],
+  [
+    "28-May-2020",
+    "28-May-2020",
+    "'0NIPG",
+    "                 1.87",
+    "           381,525.66",
+    "E- CHANNELS",
+    "VALUE ADDED TAX 000013200528092038000040220809"
+  ],
+  [
+    "VAT ON NIP TRANSFER FOR"
+  ],
+  [
+    "000013200528092038000040220809 via GTWORLD"
+  ],
+  [
+    "Token from Akan TO ZBN/HOPE UDOFIA AKPAN"
+  ],
+  [
+    "ReF:GW240225864000000100002005280919"
+  ],
+  [
+    "28-May-2020",
+    "28-May-2020",
+    "'0GWTR",
+    "            32,000.00",
+    "           349,525.66",
+    "E- CHANNELS",
+    "Evesorganic Juice",
+    "REF:240225864000000320002005280909  from MICHAEL"
+  ],
+  [
+    "TRANSFER BETWEEN CUSTOMERS Via GTWorld Mel -"
+  ],
+  [
+    "MEL AKANIYENE   to  OKOLOH, EVELYN"
+  ],
+  [
+    "Trans. Date",
+    "Value Date",
+    "Reference",
+    "Debits",
+    "Credits",
+    "Balance",
+    "Originating Branch",
+    "Remarks"
+  ],
+  [
+    "28-May-2020",
+    "28-May-2020",
+    "'0GWTR",
+    "            10,000.00",
+    "           339,525.66",
+    "E- CHANNELS",
+    "TRANSFER BETWEEN CUSTOMERS Via GTWorld Token"
+  ],
+  [
+    "from Mel   REF:240225864000000100002005280910"
+  ],
+  [
+    "from MICHAEL MEL AKANIYENE   to  EDMOND, UCHE"
+  ],
+  [
+    "KELVIN"
+  ],
+  [
+    "28-May-2020",
+    "28-May-2020",
+    "'0GWTR",
+    "            10,000.00",
+    "           329,525.66",
+    "E- CHANNELS",
+    "from Mel   REF:240225864000000100002005280911",
+    "from MICHAEL MEL AKANIYENE   to  AJAYI SAMUEL"
+  ],
+  [
+    "TRANSFER BETWEEN CUSTOMERS Via GTWorld Token"
+  ],
+  [
+    "OLADIPUPO"
+  ],
+  [
+    "28-May-2020",
+    "28-May-2020",
+    "'0GWTR",
+    "             5,000.00",
+    "           324,525.66",
+    "E- CHANNELS",
+    "TRANSFER BETWEEN CUSTOMERS Via GTWorld Token"
+  ],
+  [
+    "from Mel   REF:240225864000000050002005280915"
+  ],
+  [
+    "from MICHAEL MEL AKANIYENE   to  KUJIMIYO"
+  ],
+  [
+    "ADEMITOLA ISRAEL"
+  ],
+  [
+    "28-May-2020",
+    "28-May-2020",
+    "'0GWTR",
+    "             5,000.00",
+    "           319,525.66",
+    "E- CHANNELS",
+    "from Mel   REF:240225864000000050002005280916",
+    "from MICHAEL MEL AKANIYENE   to  SUNDAY STANLEY"
+  ],
+  [
+    "TRANSFER BETWEEN CUSTOMERS Via GTWorld Token"
+  ],
+  [
+    "CHINWENDU"
+  ],
+  [
+    "28-May-2020",
+    "28-May-2020",
+    "'0",
+    "                50.00",
+    "           319,475.66",
+    "CHEVRON DRIVE",
+    "STAMP DUTY CHARGE 28052020 STAMP DUTY"
+  ],
+  [
+    "CHARGE - 28/05/2020"
+  ],
+  [
+    "29-May-2020",
+    "29-May-2020",
+    "'0GWTR",
+    "            36,000.00",
+    "           283,475.66",
+    "E- CHANNELS",
+    "REF:240225864000000360002005291235  from MICHAEL"
+  ],
+  [
+    "TRANSFER BETWEEN CUSTOMERS Via GTWorld Mel -"
+  ],
+  [
+    "6 mesh swivel chairs"
+  ],
+  [
+    "MEL AKANIYENE   to  ANDELA TALENT ACCELERATOR"
+  ],
+  [
+    "LTD"
+  ],
+  [
+    "29-May-2020",
+    "29-May-2020",
+    "'0NIPG",
+    "            20,000.00",
+    "           263,475.66",
+    "E- CHANNELS",
+    "NIBSS Instant Payment Outward"
+  ],
+  [
+    "000013200529134821000041576349 via GTWORLD Pizza"
+  ],
+  [
+    "for the team TO ZBN/VALERIE OJINIKA EJIOFOR"
+  ],
+  [
+    "/26.875/REF:GW2402258640000002000020052913  f"
+  ],
+  [
+    "29-May-2020",
+    "29-May-2020",
+    "'0NIPG",
+    "                25.00",
+    "           263,450.66",
+    "E- CHANNELS",
+    "000013200529134821000041576349 via GTWORLD Pizza"
+  ],
+  [
+    "COMMISSION 000013200529134821000041576349 NIP"
+  ],
+  [
+    "TRANSFER COMMISSION FOR"
+  ],
+  [
+    "for the team TO ZBN/VALERIE OJINIKA EJIOFOR"
+  ],
+  [
+    "ReF:GW240225864000000200002005291347"
+  ],
+  [
+    "Trans. Date",
+    "Value Date",
+    "Reference",
+    "Debits",
+    "Credits",
+    "Balance",
+    "Originating Branch",
+    "Remarks"
+  ],
+  [
+    "29-May-2020",
+    "29-May-2020",
+    "'0NIPG",
+    "                 1.87",
+    "           263,448.79",
+    "E- CHANNELS",
+    "VALUE ADDED TAX 000013200529134821000041576349"
+  ],
+  [
+    "VAT ON NIP TRANSFER FOR"
+  ],
+  [
+    "000013200529134821000041576349 via GTWORLD Pizza"
+  ],
+  [
+    "for the team TO ZBN/VALERIE OJINIKA EJIOFOR"
+  ],
+  [
+    "ReF:GW240225864000000200002005291347"
+  ],
+  [
+    "29-May-2020",
+    "29-May-2020",
+    "'0GWTR",
+    "            15,000.00",
+    "           248,448.79",
+    "E- CHANNELS",
+    "Wears   REF:240225864000000150002005291403  from"
+  ],
+  [
+    "TRANSFER BETWEEN CUSTOMERS Via GTWorld Vels"
+  ],
+  [
+    "MICHAEL MEL AKANIYENE   to  AKINTAYO, IDRIS"
+  ],
+  [
+    "29-May-2020",
+    "29-May-2020",
+    "'99999117469999",
+    "            24,000.00",
+    "           224,448.79",
+    "E- CHANNELS",
+    "POS/WEB PURCHASE TRANSACTION  -911746-"
+  ],
+  [
+    "-126484-3PG00001-SMILE COMMS NI G  /YSMI    LANG"
+  ],
+  [
+    "29-May-2020",
+    "29-May-2020",
+    "'0NIPG",
+    "            10,000.00",
+    "           214,448.79",
+    "E- CHANNELS",
+    "Gift for Teju TO ACCESS/TOLULOPE MOJIRADE"
+  ],
+  [
+    "NIBSS Instant Payment Outward"
+  ],
+  [
+    "000013200529170134000041848140 via GTWORLD Mel -"
+  ],
+  [
+    "OLANIYI"
+  ],
+  [
+    "/26.875/REF:GW2402258640000001000020052917  f"
+  ],
+  [
+    "29-May-2020",
+    "29-May-2020",
+    "'0NIPG",
+    "                25.00",
+    "           214,423.79",
+    "E- CHANNELS",
+    "COMMISSION 000013200529170134000041848140 NIP"
+  ],
+  [
+    "TRANSFER COMMISSION FOR"
+  ],
+  [
+    "000013200529170134000041848140 via GTWORLD Mel -"
+  ],
+  [
+    "Gift for Teju TO ACCESS/TOLULOPE MOJIRADE"
+  ],
+  [
+    "OLANIYI     ReF:GW240225864000000100002005291700"
+  ],
+  [
+    "29-May-2020",
+    "29-May-2020",
+    "'0NIPG",
+    "                 1.87",
+    "           214,421.92",
+    "E- CHANNELS",
+    "000013200529170134000041848140 via GTWORLD Mel -",
+    "Gift for Teju TO ACCESS/TOLULOPE MOJIRADE"
+  ],
+  [
+    "VALUE ADDED TAX 000013200529170134000041848140"
+  ],
+  [
+    "VAT ON NIP TRANSFER FOR"
+  ],
+  [
+    "OLANIYI"
+  ],
+  [
+    "ReF:GW240225864000000100002005291700"
+  ],
+  [
+    "30-May-2020",
+    "30-May-2020",
+    "'0USAT",
+    "             2,000.00",
+    "           212,421.92",
+    "E- CHANNELS",
+    "Airtime Purchase"
+  ],
+  [
+    "USSD-101CT0000000001777145284-2348088646559"
+  ],
+  [
+    "30-May-2020",
+    "30-May-2020",
+    "'99990146189999",
+    "             3,800.00",
+    "           208,621.92",
+    "E- CHANNELS",
+    "POS/WEB PURCHASE TRANSACTION  -014618-",
+    "-230804-CHICKEN REPUBLIC       LA           LANG"
+  ],
+  [
+    "30-May-2020",
+    "30-May-2020",
+    "'99990117329999",
+    "            10,000.00",
+    "           198,621.92",
+    "E- CHANNELS",
+    "CASH WITHDRAWAL FROM OTHER ATM  -011732-"
+  ],
+  [
+    "-649333-105722310000001 No. 20 Lagos.         NG"
+  ],
+  [
+    "30-May-2020",
+    "30-May-2020",
+    "'99990766539999",
+    "            20,000.00",
+    "           178,621.92",
+    "E- CHANNELS",
+    "CASH WITHDRAWAL FROM OTHER ATM  -076653-",
+    "-674888-ACCESS BANK00000000000 LAGOS STATE,"
+  ],
+  [
+    "NG"
+  ],
+  [
+    "Trans. Date",
+    "Value Date",
+    "Reference",
+    "Debits",
+    "Credits",
+    "Balance",
+    "Originating Branch",
+    "Remarks"
+  ],
+  [
+    "30-May-2020",
+    "30-May-2020",
+    "'99990802919999",
+    "            20,000.00",
+    "           158,621.92",
+    "E- CHANNELS",
+    "CASH WITHDRAWAL FROM OTHER ATM  -080291-"
+  ],
+  [
+    "-676404-ACCESS BANK00000000000 LAGOS STATE,"
+  ],
+  [
+    "NG"
+  ],
+  [
+    "30-May-2020",
+    "30-May-2020",
+    "'0USGT",
+    "            10,000.00",
+    "           168,621.92",
+    "E- CHANNELS",
+    "TEMITOPE to MICHAEL MEL AKANIYENE",
+    "235023955300000100001778255750  from"
+  ],
+  [
+    "TRANSFER BETWEEN CUSTOMERS USSD GTBank"
+  ],
+  [
+    "Transfer from :  08027714171  AJAYI,OLUMIDE"
+  ],
+  [
+    "AJAYI,OLUMIDE TEMITOPE  to  MICHAEL MEL"
+  ],
+  [
+    "AKANIYENE"
+  ],
+  [
+    "30-May-2020",
+    "30-May-2020",
+    "'0NIPT",
+    "            21,450.00",
+    "           190,071.92",
+    "E- CHANNELS",
+    "TRANSFER BETWEEN CUSTOMERS"
+  ],
+  [
+    "000017200530212353098440845215|INO|MICHAEL MEL"
+  ],
+  [
+    "||Refund|Refund|WEMA|UTIBE NDIFREKE UDONWA"
+  ],
+  [
+    "REF:000017200530212353098440845215"
+  ],
+  [
+    "30-May-2020",
+    "30-May-2020",
+    "'0",
+    "               100.00",
+    "           189,971.92",
+    "CHEVRON DRIVE",
+    "STAMP DUTY CHARGE 30052020 STAMP DUTY",
+    "CHARGE - 30/05/2020"
+  ]
+]
